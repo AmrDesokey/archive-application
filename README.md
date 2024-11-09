@@ -1,16 +1,6 @@
-# archief
+![1](https://github.com/user-attachments/assets/c38553a9-0f86-4148-ab46-02665c8ff49d)
+![2](https://github.com/user-attachments/assets/e173c8e0-1da4-45f2-b7d9-4cf69264ba4b)
+![3](https://github.com/user-attachments/assets/14a59f91-bbf1-4471-bd77-ae61aaca8cf2)
+![4](https://github.com/user-attachments/assets/46f02a07-2963-48ce-ac12-e3c2e764ca6a)
+![5](https://github.com/user-attachments/assets/ef1f34d0-b98a-42a6-8fef-837baa9cd7f0)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
